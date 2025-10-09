@@ -32,11 +32,11 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-    createPlatform(430,800,200,15)
+    createPlatform(430,800,200,10)
     createPlatform(280,650,150,10)
-    createPlatform(500,300,200,2)
-    createPlatform(700,900,215,5)
-    createPlatform(300,450,200,6)
+    createPlatform(500,300,200,10)
+    createPlatform(600,900,215,10)
+    createPlatform(1000,200,200,10)
 
 
 
