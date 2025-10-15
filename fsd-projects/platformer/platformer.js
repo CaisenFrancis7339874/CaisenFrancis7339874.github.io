@@ -44,6 +44,10 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
+    createCollectable("steve", 600, 600)
+    createCollectable("diamond",1000,500)
+    createCollectable("diamond",700,100)
+
 
 
 
